@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: #C0DEFF;
+  
+}
+h3{
+    font-family: serif
+}
+p{
+    font-family:  serif;
+    font-size: 20px;
+}
+#note{
+    border-radius: 7px;
+    border-style: dotted;
+}
+#home{
+    background-color: #C0DEFF;
+}
+.campus_mainDiv,h1{
+    font-family: 'Cinzel Decorative', cursive;
+    border-radius: 8px;
+    border-style: dotted;
+}
+#laboratories{
+   margin-bottom: 20px;
+   align-items: center;
+}
